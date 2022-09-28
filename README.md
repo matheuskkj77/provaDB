@@ -1,2 +1,10 @@
-# trabalho-avaliativo-
-diagrama sql
+# provaDB
+
+Integrantes do Grupo:
+
+- Matheus Shaddai
+- Lunna
+
+Professor: 
+
+- Adeilson
