@@ -69,4 +69,4 @@ A função da tabela _aluno_ refere-se aos dados dos alunos cadastrados na escol
 - matricula : Matricula do aluno/Chave primária da tabela
 - nome : Nome do aluno cadastrado
 - endereço : endereço do aluno cadastrado
-- cidade : informação que faz referência ao aluno e onde se localiza sua residência
+- cidade : informação que faz referência ao aluno e onde se localiza sua residência 
