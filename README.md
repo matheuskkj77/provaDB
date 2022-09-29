@@ -52,4 +52,19 @@ A função da tabela _prof_turma_ é fazer ligação entre _professor_ e _turma_
 
 ### Tabela _historico_
 
-A função da tabela _historico_ 
+A função da tabela _historico_ refere-se a todas as outras tabelas tornando suas chaves primárias para chaves estrangeiras. Nelas possuímos os atributos/colunas:
+
+-matricula : Chave estrangeira
+-cod_disc : Chave estrangeira
+-cod_turma : Chave estrangeira
+-cod_prof : Chave estrangeira
+-ano : ano da tabela historico
+-nota : Chave estrangeira 
+-frequência : Chave estrangeira
+
+### Tabela _aluno_
+
+A função da tabela _aluno_ refere-se aos dados dos alunos cadastrados na escola. Nela possuímos os atributos/colunas:
+
+-matricula : Matricula do aluno/Chave primária da tabela
+-nome : 
